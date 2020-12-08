@@ -1,0 +1,14 @@
+.p-inputnumber-buttons-horizontal .p-button.p-inputnumber-button-down {
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 4px !important;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 4px !important;
+    order: 1;
+}
+.p-inputnumber-buttons-horizontal .p-button.p-inputnumber-button-up{
+    border-bottom-right-radius: 0 !important;
+    border-bottom-left-radius: 4px !important;
+    border-top-right-radius: 0 !important;
+    border-top-left-radius: 4px !important;
+    order: 3;
+}
